@@ -1,0 +1,100 @@
+﻿Company,Product,Memory,Storage,Processor,OS,Display,Pixels,Price
+ACER,Aspire 3 A315-23,8 GB DDR4 RAM,512 GB SSD,AMD Quad Core Ryzen 5,Windows 10,15.6 inches,1920 x 1080,45441
+ACER,Aspire 3 A315-58-38EV,4 GB DDR4 RAM,1 TB HDD,Core i3 11th Gen,Windows 10,15.6 inches,1920 x 1080,35800
+ACER,Aspire 5 A515-56,8 GB DDR4 RAM,1 TB HDD,Core i5 11th Gen,Windows 10,15.6 inches,1920 x 1080,49850
+ACER,Aspire 5 A515-57G,16 GB DDR4 RAM,512 GB SSD,Core i5 12th Gen,Windows 11,15.6 inches,1920 x 1080,62990
+ACER,Aspire 7 A715-42G,8 GB DDR4 RAM,512 GB SSD,AMD Hexa Core Ryzen 5,Windows 11,15.6 inches,1920 x 1080,51999
+ACER,Aspire 7 A715-42G Laptop,8 GB DDR4 RAM,512 GB SSD,AMD Hexa Core Ryzen 5,Windows 11,15.6 inches,1920 x 1080,51999
+ACER,Extensa EX215-31,4 GB DDR4 RAM,256 GB SSD,Pentium Quad Core,Windows 10,15.6 inches,1366 x 768,24900
+ACER,Predator Helios 300 G3-571-77QK,16 GB DDR4 RAM,256 GB SSD,Core i7 7th Gen,Windows 10,15.6 inches,1920 x 1080,167791
+ACER,Spin 5 SP513-54N-74V2,16 GB LPDDR4 RAM,512 GB SSD,Core i7 10th Gen,Windows 10,13.3 inches,2256 x 1504,146902
+ACER,Swift 3,8 GB LPDDR4X RAM,512 GB SSD,AMD Hexa Core Ryzen 5,Windows 11,14 inches,1920 x 1080,59999
+ACER,Swift 5,8 GB LPDDR4 RAM,512 GB SSD,Core i5 11th Gen,Windows 11,14 inches,1920 x 1080,79999
+ACER,Swift 5 Laptop,16 GB DDR4 RAM,1 TB SSD,Core i7 11th Gen,Windows 10,14 inches,1920 x 1080,94999
+ACER,Swift 5 Laptop,16 GB LPDDR4 RAM,1 TB SSD,Core i7 11th Gen,Windows 11,14 inches,1920 x 1080,94990
+ACER,Swift X,16 GB LPDDR4X RAM,1 TB SSD,AMD Octa Core Ryzen 7,Windows 11,14 inches,1920 x 1080,99990
+APPLE,MacBook Air M1 MGN63H Ultrabook,8 GB DDR4 RAM,256 GB SSD,Apple M1,macOS Big Sur,13.3 inches,2560 x 1600,87900
+APPLE,MacBook Air M1 MGN93H Ultrabook,8 GB DDR4 RAM,256 GB SSD,Apple M1,macOS Big Sur,13.3 inches,2560 x 1600,89900
+APPLE,MacBook Air M1 MGNA3H  Ultrabook,8 GB DDR4 RAM,512 GB SSD,Apple M1,macOS Big Sur,13.3 inches,2560 x 1600,109890
+APPLE,MacBook Air M1 MGND3H Ultrabook,8 GB DDR4 RAM,256 GB SSD,Apple M1,macOS Big Sur,13.3 inches,2560 x 1600,89900
+APPLE,MacBook Air M1 Z124J001KD Laptop,16 GB DDR4 RAM,256 GB SSD,Apple M1,macOS Big Sur,13.3 inches,2560 x 1600,119900
+APPLE,MacBook Air M2 MLXY3H Ultrabook,8 GB RAM,256 GB SSD,Apple M2,macOS Monterey,13.6 inches,2560 x 1664,111490
+APPLE,MacBook Air M2 MLY43H Ultrabook,8 GB RAM,512 GB SSD,Apple M2,macOS Monterey,13.6 inches,2560 x 1664,139990
+APPLE,MacBook Air MQD32H Ultrabook,8 GB LPDDR3 RAM,128 GB SSD,Core i5 5th Gen,macOS Sierra,13.3 inches,1440 x 900,73490
+APPLE,MacBook Pro 16 Ultrabook,16 GB DDR4 RAM,1 TB SSD,Core i7 9th Gen,macOS Catalina,16 inches,3072 x 1920,242990
+APPLE,MacBook Pro 16 Ultrabook,16 GB DDR4 RAM,512 GB SSD,Apple M1 Pro,macOS Monterey,16.2 inches,3456 x 2234,239900
+APPLE,MacBook Pro M1 Max MK1A3H Ultrabook,32 GB RAM,1 TB SSD,Apple M1 Max,macOS Monterey,16.2 inches,3456 x 2234,329900
+APPLE,MacBook Pro M1 Max MK1H3H Ultrabook,32 GB RAM,1 TB SSD,Apple M1 Max,macOS Monterey,16.2 inches,3456 x 2234,309890
+APPLE,MacBook Pro M1 MYD82H Ultrabook,8 GB DDR4 RAM,256 GB SSD,Apple M1,macOS Big Sur,13.3 inches,2560 x 1600,110990
+APPLE,MacBook Pro M1 MYD92H Ultrabook,8 GB DDR4 RAM,512 GB SSD,Apple M1,macOS Big Sur,13.3 inches,2560 x 1600,125990
+APPLE,MacBook Pro M1 Pro MK193H Ultrabook,16 GB RAM,1 TB SSD,Apple M1 Pro,macOS Monterey,16.2 inches,3456 x 2234,222990
+APPLE,MacBook Pro M1 Pro MKGQ3H Ultrabook,16 GB RAM,1 TB SSD,Apple M1 Pro,macOS Monterey,14.2 inches,3072 x 1920,223990
+APPLE,MacBook Pro M1 Ultrabook,8 GB DDR4 RAM,512 GB SSD,Apple M1,macOS Big Sur,13.3 inches,2560 x 1600,125990
+APPLE,MacBook Pro M2 MNEH3H Ultrabook,8 GB LPDDR5 RAM,256 GB SSD,Apple M2,macOS Monterey,13.3 inches,2560 x 1600,122900
+APPLE,MacBook Pro M2 MNEJ3H Ultrabook,8 GB LPDDR5 RAM,512 GB SSD,Apple M2,macOS Monterey,13.3 inches,2560 x 1600,140990
+APPLE,MacBook Pro MV972H Ultrabook,8 GB LPDDR3 RAM,512 GB SSD,Core i5 8th Gen,macOS Mojave,13.3 inches,2560 x 1600,162890
+APPLE,MacBook Pro MWP52H Ultrabook,16 GB LPDDR4X RAM,1 TB SSD,Core i5 10th Gen,macOS Catalina,13 inches,2560 x 1600,182890
+ASUS,TUF Gaming F15 FX506LHB-HN358W Laptop,8 GB DDR4 RAM,512 GB SSD,Core i5 10th Gen,Windows 11,15.6 inches,1920 x 1080,52990
+ASUS,TUF Gaming F15 FX506LH-HN258WS Laptop,8 GB DDR4 RAM,512 GB SSD,Core i5 10th Gen,Windows 11,15.6 inches,1920 x 1080,52890
+ASUS,TUF Gaming F15 FX507ZM-HF068WS Laptop,16 GB DDR4 RAM,1 TB SSD,Core i7 12th Gen,Windows 11,15.6 inches,1920 x 1080,118990
+ASUS,VivoBook 14 M415DA-EB512WS Laptop,16 GB DDR4 RAM,512 GB SSD,AMD Quad Core Ryzen 7,Windows 11,14 inches,1920 x 1080,43890
+ASUS,VivoBook 15 X515JA-BQ322WS,8 GB DDR4 RAM,512 GB SSD,Core i3 10th Gen,Windows 11,15.6 inches,1920 x 1080,35990
+ASUS,VivoBook 15 X515JA-EJ562TS Laptop,8 GB DDR4 RAM,512 GB SSD,Core i5 10th Gen,Windows 10,15.6 inches,1920 x 1080,49890
+ASUS,VivoBook 15 X515JA-EJ592WS Laptop,8 GB DDR4 RAM,512 GB SSD,Core i5 10th Gen,Windows 11,15.6 inches,1920 x 1080,44990
+AVITA,Liber V14 NS14A8INR671 Laptop,16 GB DDR4 RAM,1 TB SSD,Core i7 10th Gen,Windows 10,14 inches,1920 x 1080,50990
+DELL,Inspiron 15 3511,8 GB DDR4 RAM,1 TB HDD,Core i3 11th Gen,Windows 10,15.6 inches,1920 x 1080,40850
+DELL,Inspiron 15 3511,8 GB DDR4 RAM,1 TB HDD,Core i3 11th Gen,Windows 11,15.6 inches,1920 x 1080,40000
+DELL,Inspiron 15 3511,8 GB DDR4 RAM,1 TB HDD,Core i3 11th Gen,Windows 11,15.6 inches,1920 x 1080,46990
+DELL,Inspiron 15 3511,8 GB DDR4 RAM,512 GB SSD,Core i3 11th Gen,Windows 11,15.6 inches,1920 x 1080,45950
+HP,14s-dy2506TU,8 GB DDR4 RAM,512 GB SSD,Core i3 11th Gen,Windows 11,14 inches,1920 x 1080,41450
+HP,14s-dy2508TU,8 GB DDR4 RAM,512 GB SSD,Core i3 11th Gen,Windows 11,14 inches,1920 x 1080,40980
+HP,14s-fq1089au,8 GB DDR4 RAM,512 GB SSD,AMD Quad Core Ryzen 3,Windows 11,14 inches,1920 x 1080,40799
+HP,14s-fq1092AU,8 GB DDR4 RAM,512 GB SSD,AMD Hexa Core Ryzen 5,Windows 11,14 inches,1920 x 1080,47490
+HP,15S-Du1516Tu,8 GB DDR4 RAM,512 GB SSD,Core i3 10th Gen,Windows 10,15.6 inches,1920 x 1080,45900
+HP,15s-eq2143au,8 GB DDR4 RAM,512 GB SSD,AMD Quad Core Ryzen 3,Windows 11,15.6 inches,1920 x 1080,39990
+HP,15s-eq2144AU,8 GB DDR4 RAM,512 GB SSD,AMD Hexa Core Ryzen 5,Windows 11,15.6 inches,1920 x 1080,46490
+HP,15s-fq2629TU,8 GB DDR4 RAM,512 GB SSD,Core i3 11th Gen,Windows 11,15.6 inches,1920 x 1080,43100
+HP,15s-gr0012AU,8 GB DDR4 RAM,1 TB HDD,AMD Dual Core Ryzen 3,Windows 10,15.6 inches,1920 x 1080,47600
+HP,15s-gy0501AU,8 GB DDR4 RAM,256 GB SSD,AMD Dual Core Ryzen 3,Windows 10,15.6 inches,1920 x 1080,41400
+HP,Chromebook 11a-na0010nr,4 GB LPDDR4X RAM,32 GB SSD,MediaTek Octa Core,Google Chrome,11.6 inches,1366 x 768,24462
+HP,Pavilion 15-ec2004AX,8 GB DDR4 RAM,512 GB SSD,AMD Hexa Core Ryzen 5,Windows 10,15.6 inches,1920 x 1080,54890
+HP,Pavilion Gaming 15-DK2076TX,16 GB DDR4 RAM,512 GB SSD,Core i7 11th Gen,Windows 10,15.6 inches,1920 x 1080,110900
+HP,Pavilion x360 14-dy0050TU,16 GB DDR4 RAM,512 GB SSD,Core i7 11th Gen,Windows 10,14 inches,1920 x 1080,87700
+HP,Victus 15-fa0073TX,8 GB DDR4 RAM,512 GB SSD,Core i7 12th Gen,Windows 11,15.6 inches,1920 x 1080,85990
+INFINIX,INBook X1 Pro XL12 Laptop,16 GB LPDDR4 RAM,512 GB SSD,Core i7 10th Gen,Windows 11,14 inches,1920 x 1080,50890
+INFINIX,Inbook X1 Slim Xl21,8 GB LPDDR4X RAM,256 GB SSD,Core i3 10th Gen,Windows 11,14 inches,1920 x 1080,29890
+INFINIX,Inbook X1 Slim Xl21,8 GB LPDDR4X RAM,256 GB SSD,Core i3 10th Gen,Windows 11,14 inches,1920 x 1080,30490
+INFINIX,INBook X1 Slim XL21 Laptop,16 GB LPDDR4 RAM,512 GB SSD,Core i7 10th Gen,Windows 11,14 inches,1920 x 1080,49890
+INFINIX,Inbook X1 Xl11,8 GB LPDDR4X RAM,256 GB SSD,Core i3 10th Gen,Windows 11,14 inches,1920 x 1080,29990
+LENOVO,Ideapad 1,8 GB DDR4 RAM,512 GB SSD,AMD Quad Core Ryzen 5,Windows 11,15.6 inches,1920 x 1080,40999
+LENOVO,Ideapad 3 15IML05,8 GB DDR4 RAM,1 TB HDD,Core i3 10th Gen,Windows 10,15.6 inches,1920 x 1080,36990
+LENOVO,Ideapad 3 15IML05,8 GB DDR4 RAM,256 GB SSD,Core i3 11th Gen,Windows 10,15.6 inches,1920 x 1080,35450
+LENOVO,Ideapad 310,8 GB DDR4 RAM,1 TB HDD,AMD Quad Core A10,Windows 10,15.6 inches,1366 x 768,40390
+LENOVO,Ideapad 310,8 GB DDR4 RAM,1 TB HDD,Core i5 6th Gen,DOS,15.6 inches,1366 x 768,43900
+LENOVO,Ideapad 310,8 GB DDR4 RAM,1 TB HDD,Core i5 6th Gen,Windows 10,15.6 inches,1366 x 768,49490
+LENOVO,Ideapad Gaming 3i,8 GB DDR4 RAM,512 GB SSD,Intel Core i5 11th Gen,Windows 11,15.6 inches,1920 x 1080,51990
+LENOVO,Ideapad L340,8 GB DDR4 RAM,1 TB HDD,Core i5 9th Gen,Windows 10,15.6 inches,1920 x 1080,46794
+LENOVO,Ideapad S145,8 GB DDR4 RAM,1 TB HDD,Core i3 8th Gen,Windows 10,15.6 inches,1920 x 1080,49999
+LENOVO,Ideapad Slim 3,8 GB DDR4 RAM,512 GB SSD,AMD Hexa Core Ryzen 5,Windows 11,15.6 inches,1920 x 1080,47143
+LENOVO,Ideapad Slim 3 15IML05,4 GB DDR4 RAM,256 GB SSD,Core i3 10th Gen,Windows 10,15.6 inches,1920 x 1080,34500
+LENOVO,Ideapad Slim 3I,8 GB DDR4 RAM,512 GB SSD,AMD Hexa Core Ryzen 5,Windows 10,15.6 inches,1920 x 1080,63400
+LENOVO,Ideapad Slim 5,16 GB DDR4 RAM,512 GB SSD,Core i7 12th Gen,Windows 11,15.6 inches,1920 x 1080,82990
+MSI,Bravo 15 B5DD-410IN Laptop,8 GB DDR4 RAM,512 GB SSD,AMD Hexa Core Ryzen 5,Windows 11,15.6 inches,1920 x 1080,49900
+MSI,Crosshair 15 B12UEZ-677IN Laptop,16 GB DDR4 RAM,1 TB SSD,Core i7 12th Gen,Windows 11,15.6 inches,2560 x 1440,111000
+MSI,GF63 Thin 10SC-848IN Laptop,8 GB DDR4 RAM,512 GB SSD,Core i5 10th Gen,Windows 11,15.6 inches,1920 x 1080,49990
+MSI,Gf63 Thin 10Scxr-1617In,8 GB DDR4 RAM,1 TB HDD,Core i7 10th Gen,Windows 10,15.6 inches,1920 x 1080,79990
+MSI,GF63 Thin 10SCXR-1617IN Laptop,8 GB DDR4 RAM,1 TB HDD,Core i7 10th Gen,Windows 10,15.6 inches,1920 x 1080,79990
+MSI,GF63 Thin 10UC-606IN Laptop,16 GB DDR4 RAM,512 GB SSD,Core i7 10th Gen,Windows 10,15.6 inches,1920 x 1080,95000
+MSI,GF63 Thin 11SC-1046IN Laptop,8 GB DDR4 RAM,512 GB SSD,Core i5 11th Gen,Windows 11,15.6 inches,1920 x 1080,50990
+MSI,GF63 Thin 11SC-852IN Laptop,8 GB DDR4 RAM,512 GB SSD,Core i7 11th Gen,Windows 10,15.6 inches,1920 x 1080,57890
+MSI,GF63 Thin 11SC-853IN Laptop,8 GB DDR4 RAM,512 GB SSD,Core i5 11th Gen,Windows 10,15.6 inches,1920 x 1080,50990
+MSI,GF63 Thin 11UC-866IN Laptop,8 GB DDR4 RAM,512 GB SSD,Core i7 11th Gen,Windows 10,15.6 inches,1920 x 1080,59890
+MSI,GF65 Thin 10UE-410IN Laptop,16 GB DDR4 RAM,1 TB SSD,Core i7 10th Gen,Windows 10,15.6 inches,1920 x 1080,98500
+MSI,GL62M 7REX Laptop,8 GB DDR4 RAM,1 TB HDD,Core i7 7th Gen,Windows 10,15.6 inches,1920 x 1080,152778
+MSI,Katana GF66 11UE-861IN Laptop,16 GB DDR4 RAM,512 GB SSD,Core i7 11th Gen,Windows 10,15.6 inches,1920 x 1080,84890
+MSI,Modern 14 B10MW-424IN Laptop,8 GB DDR4 RAM,512 GB SSD,Core i3 10th Gen,Windows 10,14 inches,1920 x 1080,39890
+MSI,Modern 14 B10MW-658IN Laptop,8 GB DDR4 RAM,256 GB SSD,Core i3 10th Gen,Windows 10,14 inches,1920 x 1080,33390
+MSI,Modern 14 B11MOU-637IN Laptop,8 GB DDR4 RAM,512 GB SSD,Core i5 11th Gen,Windows 10,14 inches,1920 x 1080,52500
+MSI,Modern 14 B5M-242IN Laptop,8 GB DDR4 RAM,512 GB SSD,AMD Hexa Core Ryzen 5,Windows 11,14 inches,1920 x 1080,41899
+REALME,Book Slim Laptop,8 GB LPDDR4X RAM,256 GB SSD,Core i3 11th Gen,Windows 10,14 inches,2160 x 1440,42999
+XIAOMI,RedmiBook 15 Pro Laptop,8 GB DDR4 RAM,512 GB SSD,Core i5 11th Gen,Windows 10,15.6 inches,1920 x 1080,46650
